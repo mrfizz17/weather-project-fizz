@@ -13,8 +13,8 @@ It uses the **OpenWeather API** to display real-time weather data and a 5-day fo
 
 ## 📸 Preview
 
-![assets](desktop.png)
-![assets](phone.png)
+![Weather-Forecast](assets/desktop.png)
+![Weather-Forecast](assets/desktop.png)
 
 ---
 
