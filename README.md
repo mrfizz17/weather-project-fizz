@@ -7,7 +7,7 @@ It uses the **OpenWeather API** to display real-time weather data and a 5-day fo
 
 ## 🚀 Live Demo
 
-👉 https://your-project.vercel.app
+👉 (https://weather-project-fizz.vercel.app/)
 
 ---
 
